@@ -10,7 +10,7 @@ import { Mail, Github, Linkedin, Instagram ,Phone } from "lucide-react";
 // ];
 
 const socialLinks = [
-  { icon: Github, label: "GitHub", url: "https://github.com/yourusername", color: "hover:text-[#333]" },
+  { icon: Github, label: "GitHub", url: "https://github.com/swamynathan-git", color: "hover:text-[#333]" },
   { icon: Linkedin, label: "LinkedIn", url: "https://www.linkedin.com/in/swamy-nathan81146", color: "hover:text-[#0077B5]" },
   { icon: Mail, label: "Email", url: "mailto:swamynathan167@gmail.com", color: "hover:text-primary" },
   { icon: Phone, label: "Phone", url:  "tel:+916382034890", color: "hover:text-primary" },
